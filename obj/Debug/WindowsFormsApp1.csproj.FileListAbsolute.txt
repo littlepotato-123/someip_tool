@@ -1,0 +1,240 @@
+C:\Users\bills\Desktop\c#win\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\bills\Desktop\c#win\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\bills\Desktop\c#win\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\bills\Desktop\c#win\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\bills\Desktop\c#win\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\bills\Desktop\c#win\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\bills\Desktop\c#win\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\bills\Desktop\c#win\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\bills\Desktop\c#win\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\bills\Desktop\c#win\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\bills\Desktop\c#win\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RR_METHOD.resources
+C:\Users\bills\Desktop\c#win\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Event.resources
+C:\Users\bills\Desktop\c#win\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mian.resources
+C:\Users\bills\Desktop\c#win\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FF_METHOD.resources
+C:\Users\bills\Desktop\c#win\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Field.resources
+D:\word.ppt\埃泰克实习\临时文件\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\word.ppt\埃泰克实习\临时文件\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Event.resources
+D:\word.ppt\埃泰克实习\临时文件\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mian.resources
+D:\word.ppt\埃泰克实习\临时文件\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\word.ppt\埃泰克实习\临时文件\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\word.ppt\埃泰克实习\临时文件\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FF_METHOD.resources
+D:\word.ppt\埃泰克实习\临时文件\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Field.resources
+D:\word.ppt\埃泰克实习\临时文件\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RR_METHOD.resources
+D:\word.ppt\埃泰克实习\临时文件\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\word.ppt\埃泰克实习\临时文件\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\word.ppt\埃泰克实习\临时文件\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\word.ppt\埃泰克实习\临时文件\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\word.ppt\埃泰克实习\临时文件\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\word.ppt\埃泰克实习\临时文件\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\word.ppt\埃泰克实习\临时文件\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\word.ppt\埃泰克实习\临时文件\c#service10.27_final\bin\Debug\WindowsFormsApp1.exe.config
+D:\word.ppt\埃泰克实习\临时文件\c#service10.27_final\bin\Debug\WindowsFormsApp1.exe
+D:\word.ppt\埃泰克实习\临时文件\c#service10.27_final\bin\Debug\WindowsFormsApp1.pdb
+D:\word.ppt\埃泰克实习\临时文件\c#service10.27_final\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\word.ppt\埃泰克实习\临时文件\c#service10.27_final\obj\Debug\WindowsFormsApp1.Event.resources
+D:\word.ppt\埃泰克实习\临时文件\c#service10.27_final\obj\Debug\WindowsFormsApp1.mian.resources
+D:\word.ppt\埃泰克实习\临时文件\c#service10.27_final\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\word.ppt\埃泰克实习\临时文件\c#service10.27_final\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\word.ppt\埃泰克实习\临时文件\c#service10.27_final\obj\Debug\WindowsFormsApp1.FF_METHOD.resources
+D:\word.ppt\埃泰克实习\临时文件\c#service10.27_final\obj\Debug\WindowsFormsApp1.Field.resources
+D:\word.ppt\埃泰克实习\临时文件\c#service10.27_final\obj\Debug\WindowsFormsApp1.RR_METHOD.resources
+D:\word.ppt\埃泰克实习\临时文件\c#service10.27_final\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\word.ppt\埃泰克实习\临时文件\c#service10.27_final\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\word.ppt\埃泰克实习\临时文件\c#service10.27_final\obj\Debug\WindowsFormsApp1.exe
+D:\word.ppt\埃泰克实习\临时文件\c#service10.27_final\obj\Debug\WindowsFormsApp1.pdb
+D:\MY NEW D\atech\my project_service\c#1.1.0service10.29\c#service10.29_final\bin\Debug\WindowsFormsApp1.exe.config
+D:\MY NEW D\atech\my project_service\c#1.1.0service10.29\c#service10.29_final\bin\Debug\WindowsFormsApp1.exe
+D:\MY NEW D\atech\my project_service\c#1.1.0service10.29\c#service10.29_final\bin\Debug\WindowsFormsApp1.pdb
+D:\MY NEW D\atech\my project_service\c#1.1.0service10.29\c#service10.29_final\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\MY NEW D\atech\my project_service\c#1.1.0service10.29\c#service10.29_final\obj\Debug\WindowsFormsApp1.Event.resources
+D:\MY NEW D\atech\my project_service\c#1.1.0service10.29\c#service10.29_final\obj\Debug\WindowsFormsApp1.mian.resources
+D:\MY NEW D\atech\my project_service\c#1.1.0service10.29\c#service10.29_final\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\MY NEW D\atech\my project_service\c#1.1.0service10.29\c#service10.29_final\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\MY NEW D\atech\my project_service\c#1.1.0service10.29\c#service10.29_final\obj\Debug\WindowsFormsApp1.FF_METHOD.resources
+D:\MY NEW D\atech\my project_service\c#1.1.0service10.29\c#service10.29_final\obj\Debug\WindowsFormsApp1.Field.resources
+D:\MY NEW D\atech\my project_service\c#1.1.0service10.29\c#service10.29_final\obj\Debug\WindowsFormsApp1.RR_METHOD.resources
+D:\MY NEW D\atech\my project_service\c#1.1.0service10.29\c#service10.29_final\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\MY NEW D\atech\my project_service\c#1.1.0service10.29\c#service10.29_final\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\MY NEW D\atech\my project_service\c#1.1.0service10.29\c#service10.29_final\obj\Debug\WindowsFormsApp1.exe
+D:\MY NEW D\atech\my project_service\c#1.1.0service10.29\c#service10.29_final\obj\Debug\WindowsFormsApp1.pdb
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.4\bin\Debug\WindowsFormsApp1.exe.config
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.4\bin\Debug\WindowsFormsApp1.exe
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.4\bin\Debug\WindowsFormsApp1.pdb
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.4\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.4\obj\Debug\WindowsFormsApp1.Event.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.4\obj\Debug\WindowsFormsApp1.mian.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.4\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.4\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.4\obj\Debug\WindowsFormsApp1.FF_METHOD.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.4\obj\Debug\WindowsFormsApp1.Field.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.4\obj\Debug\WindowsFormsApp1.RR_METHOD.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.4\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.4\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.4\obj\Debug\WindowsFormsApp1.exe
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.4\obj\Debug\WindowsFormsApp1.pdb
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.4\obj\Debug\WindowsFormsApp1.tag_form.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.5\bin\Debug\WindowsFormsApp1.exe.config
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.5\bin\Debug\WindowsFormsApp1.exe
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.5\bin\Debug\WindowsFormsApp1.pdb
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.5\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.5\obj\Debug\WindowsFormsApp1.Event.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.5\obj\Debug\WindowsFormsApp1.tag_form.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.5\obj\Debug\WindowsFormsApp1.mian.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.5\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.5\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.5\obj\Debug\WindowsFormsApp1.FF_METHOD.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.5\obj\Debug\WindowsFormsApp1.Field.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.5\obj\Debug\WindowsFormsApp1.RR_METHOD.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.5\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.5\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.5\obj\Debug\WindowsFormsApp1.exe
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.4\c#service11.5\obj\Debug\WindowsFormsApp1.pdb
+D:\word.ppt\埃泰克实习\临时文件\c#service11.5\bin\Debug\WindowsFormsApp1.exe.config
+D:\word.ppt\埃泰克实习\临时文件\c#service11.5\bin\Debug\WindowsFormsApp1.exe
+D:\word.ppt\埃泰克实习\临时文件\c#service11.5\bin\Debug\WindowsFormsApp1.pdb
+D:\word.ppt\埃泰克实习\临时文件\c#service11.5\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\word.ppt\埃泰克实习\临时文件\c#service11.5\obj\Debug\WindowsFormsApp1.Event.resources
+D:\word.ppt\埃泰克实习\临时文件\c#service11.5\obj\Debug\WindowsFormsApp1.tag_form.resources
+D:\word.ppt\埃泰克实习\临时文件\c#service11.5\obj\Debug\WindowsFormsApp1.mian.resources
+D:\word.ppt\埃泰克实习\临时文件\c#service11.5\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\word.ppt\埃泰克实习\临时文件\c#service11.5\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\word.ppt\埃泰克实习\临时文件\c#service11.5\obj\Debug\WindowsFormsApp1.FF_METHOD.resources
+D:\word.ppt\埃泰克实习\临时文件\c#service11.5\obj\Debug\WindowsFormsApp1.Field.resources
+D:\word.ppt\埃泰克实习\临时文件\c#service11.5\obj\Debug\WindowsFormsApp1.RR_METHOD.resources
+D:\word.ppt\埃泰克实习\临时文件\c#service11.5\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\word.ppt\埃泰克实习\临时文件\c#service11.5\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\word.ppt\埃泰克实习\临时文件\c#service11.5\obj\Debug\WindowsFormsApp1.exe
+D:\word.ppt\埃泰克实习\临时文件\c#service11.5\obj\Debug\WindowsFormsApp1.pdb
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.12\c#1.1.1ervice11.12\bin\Debug\WindowsFormsApp1.exe.config
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.12\c#1.1.1ervice11.12\bin\Debug\WindowsFormsApp1.exe
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.12\c#1.1.1ervice11.12\bin\Debug\WindowsFormsApp1.pdb
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.12\c#1.1.1ervice11.12\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.12\c#1.1.1ervice11.12\obj\Debug\WindowsFormsApp1.Event.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.12\c#1.1.1ervice11.12\obj\Debug\WindowsFormsApp1.tag_form.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.12\c#1.1.1ervice11.12\obj\Debug\WindowsFormsApp1.mian.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.12\c#1.1.1ervice11.12\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.12\c#1.1.1ervice11.12\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.12\c#1.1.1ervice11.12\obj\Debug\WindowsFormsApp1.FF_METHOD.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.12\c#1.1.1ervice11.12\obj\Debug\WindowsFormsApp1.Field.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.12\c#1.1.1ervice11.12\obj\Debug\WindowsFormsApp1.RR_METHOD.resources
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.12\c#1.1.1ervice11.12\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.12\c#1.1.1ervice11.12\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.12\c#1.1.1ervice11.12\obj\Debug\WindowsFormsApp1.exe
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.12\c#1.1.1ervice11.12\obj\Debug\WindowsFormsApp1.pdb
+D:\MY NEW D\atech\my project_service\c#1.1.1ervice11.12\c#1.1.1ervice11.12\obj\Debug\WindowsFormsApp1.tag_from_search.resources
+D:\word.ppt\埃泰克实习\临时文件\c#1.1.1ervice11.15\bin\Debug\WindowsFormsApp1.exe.config
+D:\word.ppt\埃泰克实习\临时文件\c#1.1.1ervice11.15\bin\Debug\WindowsFormsApp1.exe
+D:\word.ppt\埃泰克实习\临时文件\c#1.1.1ervice11.15\bin\Debug\WindowsFormsApp1.pdb
+D:\word.ppt\埃泰克实习\临时文件\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\word.ppt\埃泰克实习\临时文件\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.Event.resources
+D:\word.ppt\埃泰克实习\临时文件\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.tag_from_search.resources
+D:\word.ppt\埃泰克实习\临时文件\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.tag_form.resources
+D:\word.ppt\埃泰克实习\临时文件\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.mian.resources
+D:\word.ppt\埃泰克实习\临时文件\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\word.ppt\埃泰克实习\临时文件\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\word.ppt\埃泰克实习\临时文件\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.FF_METHOD.resources
+D:\word.ppt\埃泰克实习\临时文件\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.Field.resources
+D:\word.ppt\埃泰克实习\临时文件\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.RR_METHOD.resources
+D:\word.ppt\埃泰克实习\临时文件\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\word.ppt\埃泰克实习\临时文件\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\word.ppt\埃泰克实习\临时文件\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.exe
+D:\word.ppt\埃泰克实习\临时文件\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.pdb
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\bin\Debug\WindowsFormsApp1.exe.config
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\bin\Debug\WindowsFormsApp1.exe
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\bin\Debug\WindowsFormsApp1.pdb
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.Event.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.tag_from_search.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.tag_form.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.mian.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.FF_METHOD.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.RR_METHOD.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.exe
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.pdb
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.Getter.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.Setter.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.26 - 副本 - 副本\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.Notifier.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\bin\Debug\WindowsFormsApp1.exe.config
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\bin\Debug\WindowsFormsApp1.exe
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\bin\Debug\WindowsFormsApp1.pdb
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.Event.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.Getter.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.Setter.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.Notifier.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.tag_from_search.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.tag_form.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.mian.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.FF_METHOD.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.RR_METHOD.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.exe
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.29\c#1.1.1ervice11.15\obj\Debug\WindowsFormsApp1.pdb
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\bin\Debug\WindowsFormsApp1.exe.config
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\bin\Debug\WindowsFormsApp1.exe
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\bin\Debug\WindowsFormsApp1.pdb
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.Event.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.Getter.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.Setter.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.Notifier.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.tag_from_search.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.tag_form.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.mian.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.FF_METHOD.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.RR_METHOD.resources
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.exe
+D:\MY NEW D\atech\my project_service\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.pdb
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\bin\Debug\WindowsFormsApp1.exe.config
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\bin\Debug\WindowsFormsApp1.exe
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\bin\Debug\WindowsFormsApp1.pdb
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.Event.resources
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.Getter.resources
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.Setter.resources
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.Notifier.resources
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.tag_from_search.resources
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.tag_form.resources
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.mian.resources
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.FF_METHOD.resources
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.RR_METHOD.resources
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.版本信息.resources
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.exe
+D:\word.ppt\埃泰克实习\临时文件\c#2.0serivice11.30\c#2.0Service11.30\obj\Debug\WindowsFormsApp1.pdb
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\bin\Debug\WindowsFormsApp1.exe.config
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\bin\Debug\WindowsFormsApp1.exe
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\bin\Debug\WindowsFormsApp1.pdb
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.Event.resources
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.Getter.resources
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.Setter.resources
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.Notifier.resources
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.tag_from_search.resources
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.tag_form.resources
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.mian.resources
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.FF_METHOD.resources
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.RR_METHOD.resources
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.版本信息.resources
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.exe
+D:\BaiduNetdiskDownload\MY NEW D\atech\my project_service\c#2.0serivice12.6\c#2.0serivice12.06\c#2.0Service12.6\obj\Debug\WindowsFormsApp1.pdb

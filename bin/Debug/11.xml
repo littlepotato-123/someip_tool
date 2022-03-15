@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RootNode>
+  <SeverviceName name="大分数">
+    <SevivceID>个人</SevivceID>
+    <SeviceDescription>热</SeviceDescription>
+    <Interface_Name name="二号">
+      <PRC_Type>R/R  Method</PRC_Type>
+      <Udp_Tcp>Tcp</Udp_Tcp>
+      <Input_Parameter>
+      </Input_Parameter>
+      <Remark>
+      </Remark>
+      <Output_Parameter>
+      </Output_Parameter>
+      <Method_Id>
+      </Method_Id>
+      <Method_Description>
+      </Method_Description>
+    </Interface_Name>
+    <Interface_Name name="二号">
+      <PRC_Type>F&amp;F Method</PRC_Type>
+      <Udp_Tcp>Tcp</Udp_Tcp>
+      <Input_Parameter>
+      </Input_Parameter>
+      <Remark>
+      </Remark>
+      <Method_Id>
+      </Method_Id>
+      <Method_Description>
+      </Method_Description>
+    </Interface_Name>
+    <Interface_Name name="问题">
+      <PRC_Type>Event</PRC_Type>
+      <tb_Cyclic_Time>
+      </tb_Cyclic_Time>
+      <Send_Strategy>Changed</Send_Strategy>
+      <Event_Notification_Parameter>
+      </Event_Notification_Parameter>
+      <Eventgroup_Name_id>
+      </Eventgroup_Name_id>
+      <Udp_Tcp>Udp</Udp_Tcp>
+      <Remark>
+      </Remark>
+      <Method_Id>
+      </Method_Id>
+      <Method_Description>
+      </Method_Description>
+    </Interface_Name>
+    <Interface_Name name="而已">
+      <PRC_Type>Field</PRC_Type>
+      <tb_Cyclic_Time>
+      </tb_Cyclic_Time>
+      <Send_Strategy>Changed</Send_Strategy>
+      <Event_Notification_Parameter>
+      </Event_Notification_Parameter>
+      <Eventgroup_Name_id>
+      </Eventgroup_Name_id>
+      <Field_Property_Data_Type>
+      </Field_Property_Data_Type>
+      <RPC_Specific_Type>
+      </RPC_Specific_Type>
+      <Field_Property_Name>
+      </Field_Property_Name>
+      <Udp_Tcp>Udp</Udp_Tcp>
+      <Input_Parameter>
+      </Input_Parameter>
+      <Remark>
+      </Remark>
+      <Output_Parameter>
+      </Output_Parameter>
+      <Method_Id>
+      </Method_Id>
+      <Method_Description>
+      </Method_Description>
+    </Interface_Name>
+  </SeverviceName>
+</RootNode>

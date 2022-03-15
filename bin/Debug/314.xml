@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RootNode>
+  <SeverviceName name="aa">
+    <Tag>mya</Tag>
+    <SevivceID>1</SevivceID>
+    <SeviceDescription>bbb</SeviceDescription>
+    <Interface_Name name="aaa">
+      <RPC_Type>Event</RPC_Type>
+      <Input_Parameter>
+      </Input_Parameter>
+      <Cyclic_Time>
+      </Cyclic_Time>
+      <Send_Type>
+      </Send_Type>
+      <Event_Parameter>
+      </Event_Parameter>
+      <Event_Group_id>
+      </Event_Group_id>
+      <Udp_Tcp>
+      </Udp_Tcp>
+      <Remark>
+      </Remark>
+      <Event_Id>1</Event_Id>
+      <Method_Description>12312</Method_Description>
+    </Interface_Name>
+    <Interface_Name name="43434">
+      <RPC_Type>Notifier</RPC_Type>
+      <Signal_Name>
+      </Signal_Name>
+      <Signal_Id>
+      </Signal_Id>
+      <Event_Group_Name>
+      </Event_Group_Name>
+      <Event_Group_Id>
+      </Event_Group_Id>
+      <Field_Property_Data_Type>432</Field_Property_Data_Type>
+      <Udp_Tcp>
+      </Udp_Tcp>
+      <Remark>
+      </Remark>
+    </Interface_Name>
+  </SeverviceName>
+  <SeverviceName name="bb">
+    <Tag>bbbb</Tag>
+    <SevivceID>2</SevivceID>
+    <SeviceDescription>vvv</SeviceDescription>
+    <Interface_Name name="nnn">
+      <RPC_Type>Event</RPC_Type>
+      <Input_Parameter>
+      </Input_Parameter>
+      <Cyclic_Time>
+      </Cyclic_Time>
+      <Send_Type>
+      </Send_Type>
+      <Event_Parameter>
+      </Event_Parameter>
+      <Event_Group_id>
+      </Event_Group_id>
+      <Udp_Tcp>
+      </Udp_Tcp>
+      <Remark>
+      </Remark>
+      <Event_Id>333</Event_Id>
+      <Method_Description>nn</Method_Description>
+    </Interface_Name>
+  </SeverviceName>
+</RootNode>

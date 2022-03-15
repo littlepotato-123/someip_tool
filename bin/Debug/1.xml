@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RootNode>
+  <SeverviceName name="多个">
+    <Tag>人特好</Tag>
+    <SevivceID>而湖人</SevivceID>
+    <SeviceDescription>为</SeviceDescription>
+    <Interface_Name name="二号">
+      <PRC_Type>F&amp;F Method</PRC_Type>
+      <Udp_Tcp>
+      </Udp_Tcp>
+      <Input_Parameter>
+      </Input_Parameter>
+      <Remark>
+      </Remark>
+      <Send_Strategy>
+      </Send_Strategy>
+      <Method_Id>
+      </Method_Id>
+      <Method_Description>
+      </Method_Description>
+      <Epsilon_Value>
+      </Epsilon_Value>
+    </Interface_Name>
+    <Interface_Name name="二号">
+      <PRC_Type>R/R  Method</PRC_Type>
+      <Udp_Tcp>
+      </Udp_Tcp>
+      <Input_Parameter>
+      </Input_Parameter>
+      <Remark>
+      </Remark>
+      <Output_Parameter>
+      </Output_Parameter>
+      <Method_Id>
+      </Method_Id>
+      <Method_Description>
+      </Method_Description>
+      <Epsilon_Value>
+      </Epsilon_Value>
+    </Interface_Name>
+  </SeverviceName>
+  <SeverviceName name="二">
+    <Tag>特人和</Tag>
+    <Tag>饿</Tag>
+    <Tag>人特好</Tag>
+    <SevivceID>二五</SevivceID>
+    <SeviceDescription>让他</SeviceDescription>
+    <Interface_Name name="九二">
+      <PRC_Type>R/R  Method</PRC_Type>
+      <Udp_Tcp>
+      </Udp_Tcp>
+      <Input_Parameter>
+      </Input_Parameter>
+      <Remark>
+      </Remark>
+      <Output_Parameter>
+      </Output_Parameter>
+      <Method_Id>
+      </Method_Id>
+      <Method_Description>
+      </Method_Description>
+      <Epsilon_Value>
+      </Epsilon_Value>
+    </Interface_Name>
+  </SeverviceName>
+</RootNode>

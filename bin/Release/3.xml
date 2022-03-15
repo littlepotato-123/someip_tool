@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RootNode>
+  <SeverviceName name="哈瑞特">
+    <Tag>而已</Tag>
+    <Tag>儿童</Tag>
+    <SevivceID>235</SevivceID>
+    <SeviceDescription>他忽然</SeviceDescription>
+    <Interface_Name name="和特人">
+      <RPC_Type>F&amp;F Method</RPC_Type>
+      <Udp_Tcp>
+      </Udp_Tcp>
+      <Input_Parameter>
+      </Input_Parameter>
+      <Remark>
+      </Remark>
+      <Method_Id>325</Method_Id>
+    </Interface_Name>
+    <Interface_Name name="而已">
+      <RPC_Type>R/R  Method</RPC_Type>
+      <Udp_Tcp>
+      </Udp_Tcp>
+      <Input_Parameter>
+      </Input_Parameter>
+      <Remark>
+      </Remark>
+      <Output_Parameter>
+      </Output_Parameter>
+      <Method_Id>
+      </Method_Id>
+      <Method_Description>
+      </Method_Description>
+    </Interface_Name>
+    <Interface_Name name="鄂豫皖">
+      <RPC_Type>R/R  Method</RPC_Type>
+      <Udp_Tcp>
+      </Udp_Tcp>
+      <Input_Parameter>
+      </Input_Parameter>
+      <Remark>
+      </Remark>
+      <Output_Parameter>
+      </Output_Parameter>
+      <Method_Id>
+      </Method_Id>
+      <Method_Description>
+      </Method_Description>
+    </Interface_Name>
+  </SeverviceName>
+  <SeverviceName name="hear">
+    <Tag>儿童</Tag>
+    <SevivceID>5235</SevivceID>
+    <SeviceDescription>特人和</SeviceDescription>
+    <Interface_Name name="他忽然">
+      <RPC_Type>Event</RPC_Type>
+      <Input_Parameter>二十个</Input_Parameter>
+      <Cyclic_Time>234</Cyclic_Time>
+      <Send_Type>Cyclic</Send_Type>
+      <Event_Parameter>果然是</Event_Parameter>
+      <Event_Group_id>34</Event_Group_id>
+      <Udp_Tcp>
+      </Udp_Tcp>
+      <Remark>和特人</Remark>
+      <Event_Id>35</Event_Id>
+    </Interface_Name>
+  </SeverviceName>
+  <SeverviceName name="返回">
+    <SevivceID>235</SevivceID>
+    <SeviceDescription>而忽视</SeviceDescription>
+    <Interface_Name name="热火">
+      <RPC_Type>Getter</RPC_Type>
+      <Signal_Name>
+      </Signal_Name>
+      <Signal_Id>
+      </Signal_Id>
+      <Field_Property_Data_Type>为</Field_Property_Data_Type>
+      <Udp_Tcp>
+      </Udp_Tcp>
+      <Remark>
+      </Remark>
+    </Interface_Name>
+  </SeverviceName>
+</RootNode>

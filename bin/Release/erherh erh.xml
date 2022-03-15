@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RootNode>
+  <SeverviceName name="哈瑞特">
+    <Tag>而已</Tag>
+    <Tag>儿童</Tag>
+    <SevivceID>235</SevivceID>
+    <SeviceDescription>他忽然</SeviceDescription>
+    <Interface_Name name="鄂豫皖">
+      <RPC_Type>R/R  Method</RPC_Type>
+      <Udp_Tcp>
+      </Udp_Tcp>
+      <Input_Parameter>
+      </Input_Parameter>
+    </Interface_Name>
+  </SeverviceName>
+  <SeverviceName name="hear">
+    <Tag>儿童</Tag>
+    <SevivceID>5235</SevivceID>
+    <SeviceDescription>特人和</SeviceDescription>
+    <Interface_Name name="他忽然">
+      <RPC_Type>Event</RPC_Type>
+      <Input_Parameter>二十个</Input_Parameter>
+      <Cyclic_Time>234</Cyclic_Time>
+      <Send_Type>Cyclic</Send_Type>
+      <Event_Parameter>果然是</Event_Parameter>
+      <Event_Group_id>34</Event_Group_id>
+    </Interface_Name>
+    <Interface_Name name="erh">
+      <RPC_Type>F&amp;F Method</RPC_Type>
+      <Udp_Tcp>
+      </Udp_Tcp>
+      <Input_Parameter>人特好</Input_Parameter>
+      <Remark>
+      </Remark>
+      <Method_Id>435</Method_Id>
+      <Method_Description>人特好</Method_Description>
+    </Interface_Name>
+  </SeverviceName>
+</RootNode>

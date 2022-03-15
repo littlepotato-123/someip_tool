@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RootNode>
+  <SeverviceName name="第三方">
+    <SevivceID>而过rw</SevivceID>
+    <SeviceDescription>十分大</SeviceDescription>
+    <Interface_Name name="">
+      <PRC_Type>Event</PRC_Type>
+      <tb_Cyclic_Time>
+      </tb_Cyclic_Time>
+      <Send_Strategy>Changed</Send_Strategy>
+      <Event_Notification_Parameter>
+      </Event_Notification_Parameter>
+      <Eventgroup_Name_id>
+      </Eventgroup_Name_id>
+      <Udp_Tcp>
+      </Udp_Tcp>
+      <Remark>
+      </Remark>
+      <Method_Id>
+      </Method_Id>
+    </Interface_Name>
+  </SeverviceName>
+</RootNode>
